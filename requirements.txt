@@ -1,0 +1,4 @@
+bibtexparser
+requests
+rich
+citeproc-py
